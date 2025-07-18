@@ -2,6 +2,8 @@
 🔭 I’m currently working on<br>A real-time Accident Detection System using CNNs, Computer Vision, and Deep Learning to enhance road safety.<br><br>👯 I’m looking to collaborate on<br>AI/ML, Competitive Programming, or any impactful real-world applications involving deep learning or secure web apps.<br><br>🤝 I’m looking for help with<br>Contributing to open-source AI projects and gaining more hands-on experience with Kubernetes and Apache Kafka.<br><br>🌱 I’m currently learning<br>Advanced AI concepts, cloud architecture, and secure backend development using Spring Security and OAuth2.<br><br>💬 Ask me about<br>Data Structures, Spring WebSocket, JWT auth, or how I built a real-time chat app with Java & MongoDB.<br><br>⚡ Fun fact<br>I love turning complex problems into elegant code — and I've built projects from chat apps to smart accident detection systems!
 
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xiMHUwdW8yMTZjZ2RtMnkzb3lmcHR6cms2ZnRkdzRlNW53anduMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ar4197@srmist.edu.in) 
 
